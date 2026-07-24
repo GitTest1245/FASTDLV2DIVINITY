@@ -1,0 +1,10 @@
+halflife.wad
+cs_bdog.wad
+n0th1ng.wad
+decals.wad
+cstrike.wad
+sound/ambience/jetflyby1.wav
+sound/ambience/copter.wav
+sound/weapons/explode3.wav
+sound/weapons/explode5.wav
+sound/weapons/explode4.wav
